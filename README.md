@@ -1,2 +1,2 @@
 # ProjectMachineLearning
-https://www.kaggle.com/datasets/adityajn105/flickr8k
+Dữ liệu sử dụng trong bài: https://www.kaggle.com/datasets/adityajn105/flickr8k
